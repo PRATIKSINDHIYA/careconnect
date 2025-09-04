@@ -4,6 +4,8 @@ CareConnect is a full-stack medical appointment platform that enables patients t
 
 
 ---
+![CareConnect Screenshot](\careconnect\CareConnect Logo_ Heart & Stethoscope.png)
+---
 
 ## 🧠 Tech Stack
 
