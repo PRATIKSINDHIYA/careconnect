@@ -87,7 +87,7 @@ You can use the following admin credentials to test the **Admin Panel**:
 ### 📁 Clone the Repo
 
 ```bash
-git clone https://github.com/pratiksindhiya/CareConnect.git
+git clone https://github.com/PRATIKSINDHIYA/CareConnect.git
 cd CareConnect
 ````
 
